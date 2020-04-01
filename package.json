@@ -1,0 +1,23 @@
+{
+  "name": "sender-usage-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsukraine/sender-usage-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsukraine/sender-usage-example/issues"
+  },
+  "homepage": "https://github.com/edsukraine/sender-usage-example#readme",
+  "dependencies": {
+    "edsukraine-sender": "^1.0.5",
+    "parcel": "^1.12.4"
+  }
+}
